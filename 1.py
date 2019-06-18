@@ -1,5 +1,5 @@
 z=int(input())
 if z>0:
-  print("positive")
+  print("Positive")
 else:
-  print("negative")
+  print("Negative")
